@@ -1,2 +1,1 @@
 # UAP-TEAM
-MY SCRIPT\n
