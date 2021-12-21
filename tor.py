@@ -83,6 +83,6 @@ def vpn():
 	except :
 		os.system("pkg install tor")
 		os.system ("tor")
-	os.system('cd /sdcard/UAP-TEAM')
+	os.system('cd /data/data/com.termux/files/home/UAP-TEAM')
 	#os.system('python my_project.py')
-	os.system('python my_projects.py')
+	os.system('python start.py')
