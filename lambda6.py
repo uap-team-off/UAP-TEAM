@@ -103,4 +103,4 @@ def enc():
 	v=input(P+"prees enter to resume to UAP-TEAM:  ")
 	if v =="":
             os.system('cd /data/data/com.termux/files/home/UAP-TEAM')
-	    os.system('python start.py')
+            os.system('python start.py')
