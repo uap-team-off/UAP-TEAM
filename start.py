@@ -1,2 +1,2 @@
-import UAP_TEAM,e,lib,ne
+import UAP_TEAM
 UAP_TEAM.start()
