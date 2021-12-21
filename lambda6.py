@@ -102,4 +102,5 @@ def enc():
 		print('\n\033[1;31mBe stopped')
 	v=input(P+"prees enter to resume to UAP-TEAM:  ")
 	if v =="":
-	    os.system('python my_projects.py')
+            os.system('cd /data/data/com.termux/files/home/UAP-TEAM')
+	    os.system('python start.py')
