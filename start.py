@@ -1,3 +1,2 @@
-import UAP_TEAM,move
-move.m()
+import UAP_TEAM
 UAP_TEAM.start()
