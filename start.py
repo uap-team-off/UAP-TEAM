@@ -1,3 +1,3 @@
 import UAP_TEAM,move
-mov.m()
+move.m()
 UAP_TEAM.start()
