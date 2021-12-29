@@ -1,6 +1,4 @@
 def start():
-    import move 
-    move.m()
     byg = open('lode.txt','r')
     gt = byg.read()
     while True :
